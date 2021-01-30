@@ -76,6 +76,6 @@ else {
 
 document.write(`<div class="${color}">
         <span>${rang}</span>
-        <img src="../img/${mask}.png" alt="Mask" />
+        <img src="img/${mask}.png" alt="Mask" />
 </div>`);
 
