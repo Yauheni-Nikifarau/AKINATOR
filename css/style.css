@@ -1,0 +1,28 @@
+div {
+    margin: 200px auto 0;
+    height: 500px;
+    width: 300px;
+    border: 4px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    color: red;
+    border-color: red;
+}
+
+.black {
+    color: black;
+    border-color: black;
+}
+
+span {
+    font-size: 150px;
+}
+
+img {
+    width: 100px;
+}
